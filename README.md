@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Olá sou Léo Cintra. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**cintralima/cintralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤓 💻 Sobre Mim </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Atualmente, estou aprendendo o desenvolvimento Java com Spring.
+- 🎓 &nbsp; Cursando Bootcamp da Generation Brasil de Desenvolvedor Java Jr.
+- 💼 &nbsp; Desenvolvedor Java Jr e Desenvolvedor Web Front-End Jr.
+- 🌱 &nbsp; Entusiasta em Tecnologia, Mobile Tec e Fotografia.
+- ✍️ &nbsp; Jogar videogame, assistir séries, fotografar , tocar teclado e viajar. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Spring | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL|  
+- 🔧 &nbsp; intelliJ | Visual Studio Code | Eclipse | Git
+- 🖥 &nbsp; Adobe Photoshop | Illustrator | Premiere | 
